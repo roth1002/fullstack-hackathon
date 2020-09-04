@@ -11,7 +11,7 @@
     "gulp-minify-css": "^0.3.11",
     "gulp-notify": "^2.0.0",
     "object-assign": "^1.0.0",
-    "react": "^0.12",
+    "react": "^16.13",
     "vinyl-source-stream": "^1.0.0"
   },
   "devDependencies": {
